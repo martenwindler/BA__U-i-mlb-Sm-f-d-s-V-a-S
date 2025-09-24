@@ -1,0 +1,2 @@
+```evidential_loss.py```:
+Definiert die Funktion `evidential_loss`, die evidenzbasierte Regressionsverluste in mehreren Varianten (u. a. `nll`, `abs`, `mse`, `kl`, `scaled`, `variational`, `full`) mit Stabilitätschecks berechnet und einen skalaren Loss zurückgibt.

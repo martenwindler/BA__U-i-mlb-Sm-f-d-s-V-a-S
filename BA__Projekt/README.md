@@ -64,6 +64,3 @@ Optional: Build file-set by token(s), e.g.
 bash scripts/print__folder_contents_by_depth.sh BA__Programmierung/viz 1 | \ 
 bash scripts/create__files_by_token.sh test__ednn_regression py tests/
 ```
-
-## Changelog
-- Please check project gantt-chart from introduction mail.
